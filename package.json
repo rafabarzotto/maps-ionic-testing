@@ -18,7 +18,8 @@
     "cordova-plugin-whitelist",
     "cordova-plugin-console",
     "cordova-plugin-splashscreen",
-    "ionic-plugin-keyboard"
+    "ionic-plugin-keyboard",
+    "phonegap-plugin-barcodescanner"
   ],
   "cordovaPlatforms": [
     "ios"
